@@ -1,4 +1,4 @@
-# ALL Projects
+# Other Projects
 
 This repository contains categorized projects organized into two main domains:
 
